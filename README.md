@@ -9,6 +9,9 @@
 - 💬 Ask me about: Python, backend logic, or how I'm learning in public
 - 📫 Reach me: *(add your email or LinkedIn once ready)*
 
+- ### 🐍 Contribution Graph
+![snake gif](https://raw.githubusercontent.com/lakshyajeet-dev/lakshyajeet-dev/output/github-snake-dark.svg)
+
 ---
 
 ### 🛠️ Tech Stack
