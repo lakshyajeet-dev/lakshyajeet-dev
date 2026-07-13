@@ -7,7 +7,7 @@
 - 🔭 Currently working on: OOP in Python → Student Report Card System
 - 🌱 Learning: Django, PostgreSQL, and the fundamentals of ML
 - 💬 Ask me about: Python, backend logic, or how I'm learning in public
-- 📫 Reach me: *(add your email or LinkedIn once ready)*
+- 📫 Reach me: lakshyajeet2040@gmail.com
 
 - ### 🐍 Contribution Graph
 ![snake gif](https://raw.githubusercontent.com/lakshyajeet-dev/lakshyajeet-dev/output/github-snake-dark.svg)
