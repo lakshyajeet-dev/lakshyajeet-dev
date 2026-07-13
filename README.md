@@ -17,10 +17,7 @@
 ### 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=python,django,postgres,git,github,vscode)
 
-### 📊 GitHub Stats
-![Lakshyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyajeet-dev&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajeet-dev&layout=compact&theme=dark)
 
 ### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshyajeet-dev&theme=dark)
