@@ -14,8 +14,80 @@
 
 ---
 
-### 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,django,postgres,git,github,vscode)
+## 🛠 Tech Stack & Skills
+
+### Languages & Frameworks
+![Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi)
+
+- Python
+- Django
+- Flask
+- FastAPI
+- REST API Development
+- JWT Authentication
+- MVC / MVT Architecture
+
+---
+
+### Databases
+![Skills](https://skillicons.dev/icons?i=postgres,sqlite,redis)
+
+- PostgreSQL
+- SQLite
+- SQL
+- Redis
+- Vector Databases
+
+---
+
+### AI / LLM Engineering
+
+- OpenAI API
+- Gemini API
+- LangChain
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+- Prompt Engineering
+
+---
+
+### Data Science
+
+- NumPy
+- Pandas
+- Data Processing
+- Data Cleaning
+- Data Analysis
+
+---
+
+### DevOps & Cloud
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws)
+
+- Docker
+- Kubernetes
+- AWS Cloud
+- CI/CD Pipelines
+- Microservices Architecture
+
+---
+
+### Messaging & Distributed Systems
+
+- Apache Kafka
+- Redis
+
+---
+
+### Development Tools
+![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)
+
+- Git
+- GitHub
+- Postman
+- VS Code
+
 
 
 
