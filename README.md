@@ -32,16 +32,6 @@
 - 🤖 Exploring LangChain, RAG, Vector Databases
 - ⚡ Practicing DSA & Backend System Design
 
----
 
-# 🛠 Tech Stack
-
-### Backend
-
-![Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi)
-
-Python • Django • Flask • FastAPI
-
----
 
 
