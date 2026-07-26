@@ -1,165 +1,211 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Lakshyajeet&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Lakshyajeet%20Singh%20Rathod&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# 👋 Hi, I'm Lakshyajeet Singh Rathod
+
+### Backend Developer | AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Enthusiast;Python+%7C+Django+%7C+FastAPI;Learning+LLMs+%7C+RAG+%7C+System+Design;Open+to+Backend+%26+AI+Internships" />
+
+<br><br>
+
+<a href="https://github.com/lakshyajeet-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshyajeet-singh-rathod-13a0662b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lakshyajeet2040@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Developer;Python+%7C+Django+%7C+LLMs+%7C+AI+Automation;Building+Production-Ready+Systems;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lakshyajeet"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+# 👨‍💻 About Me
 
 ```python
 class Lakshyajeet:
+
     def __init__(self):
-        self.role = "Backend & AI Developer"
-        self.education = "B.Tech Computer Science (Final Year)"
-        self.goals = ["Backend / AI Internship", "Production-ready AI projects",
-                      "Master System Design & Microservices"]
+
+        self.name = "Lakshyajeet Singh Rathod"
+
+        self.role = "Backend Developer | AI Enthusiast"
+
+        self.education = "B.Tech Computer Science"
+
+        self.location = "India"
+
         self.current_focus = [
-            "Building AI-powered Backend Applications",
-            "Django, FastAPI, Docker, Kubernetes",
-            "LangChain, RAG, Vector Databases",
-            "DSA & Backend System Design"
+            "Backend Development",
+            "FastAPI",
+            "Django REST Framework",
+            "Artificial Intelligence",
+            "System Design",
+            "Docker"
         ]
 
+        self.learning = [
+            "LangChain",
+            "RAG",
+            "Vector Databases",
+            "Kubernetes",
+            "Microservices"
+        ]
+
+        self.goal = "Backend / AI Internship"
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome.")
+        print("Thanks for visiting my GitHub profile 👋")
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 🐍 Backend Core
+### 🐍 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### ⚡ Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+### 🗄 Database
 
-### 🤖 AI & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 📦 Message Brokers & Cache
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🛠️ Tools & Others
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 ---
 
-## 📊 GitHub Analytics
+### 🤖 AI
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshyajeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyajeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshyajeet&theme=tokyonight&hide_border=true&background=0D1117" width="75%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshyajeet&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ---
 
-## 🧠 Knowledge Map
+### ☁ DevOps
 
-<details>
-<summary><b>🐍 Python Development</b></summary>
-<br>
-
-| Category | Skills |
-|----------|--------|
-| **Web Frameworks** | Django, Django REST Framework, MVT Architecture |
-| **Databases** | PostgreSQL, SQLite, SQL, ORM, Joins, Subqueries, Indexing, Transactions, Normalization |
-| **Auth & Security** | JWT Authentication, Authentication & Authorization |
-| **API Tools** | REST APIs, Postman |
-| **Deployment** | Render, Railway, PythonAnywhere |
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-| Category | Skills |
-|----------|--------|
-| **Data Science** | NumPy, Pandas, Data Cleaning |
-| **Machine Learning** | Machine Learning, Deep Learning |
-| **LLMs & Agents** | OpenAI API, Gemini API, LangChain, RAG, NLP |
-| **Vector Stores** | Vector Databases, Embeddings |
-
-</details>
-
-<details>
-<summary><b>⚙️ DevOps & Architecture</b></summary>
-<br>
-
-| Category | Skills |
-|----------|--------|
-| **Containers** | Docker, Kubernetes (basics) |
-| **CI/CD** | GitHub Actions |
-| **Message Brokers** | Redis, Kafka |
-| **System Design** | Caching, Background Tasks, Microservices |
-
-</details>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ---
 
-## 📈 Activity Graph
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
+
+---
+
+# 📚 Currently Learning
+
+- ⚡ FastAPI
+- 🏗 Backend System Design
+- 🐳 Docker
+- ☸ Kubernetes
+- 🤖 LangChain
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🗄 PostgreSQL
+- ☁ Cloud Fundamentals
+
+---
+
+# 🚧 Currently Building
+
+I'm currently focusing on improving my backend development and AI engineering skills.
+
+### Upcoming Projects
+
+- 🤖 AI Resume Analyzer
+- 💬 Chat with PDF (RAG)
+- 🛒 Django REST E-Commerce API
+- 📅 FastAPI Task Manager
+- 🔐 JWT Authentication Service
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshyajeet&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyajeet-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajeet-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakshyajeet-dev&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Goals for 2026
+# 📈 Contribution Graph
 
-- [x] Build real-world backend systems
-- [ ] Land a Backend / AI Internship
-- [ ] Build production-ready AI projects
-- [ ] Master System Design & Microservices
-- [ ] Contribute to open-source
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajeet-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Master Django & FastAPI
+- ✅ Build Production-Ready Backend Projects
+- ⏳ Learn System Design
+- ⏳ Learn Docker & Kubernetes
+- ⏳ Build AI-powered Applications
+- ⏳ Land a Backend / AI Internship
+- ⏳ Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**lakshyajeet2040@gmail.com**
+
+💼 **LinkedIn**
+
+**https://www.linkedin.com/in/lakshyajeet-singh-rathod-13a0662b8/**
+
+🐙 **GitHub**
+
+**https://github.com/lakshyajeet-dev**
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshyajeet&label=Profile+Views&color=667eea&style=flat" alt="Profile views"/>
-  <br>
-  <b>🌟 Star your favorite repos — it means a lot!</b>
-</p>
+<img src="https://komarev.com/ghpvc/?username=lakshyajeet-dev&style=for-the-badge&color=blue"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building."*
+
+</div>
