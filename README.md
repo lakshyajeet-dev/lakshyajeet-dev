@@ -28,42 +28,13 @@
 
 # 👨‍💻 About Me
 
-```python
-class Lakshyajeet:
+Hi, I'm **Lakshyajeet Singh Rathod**, a **Backend Developer** and **AI Enthusiast** passionate about building scalable backend applications and exploring AI technologies.
 
-    def __init__(self):
-
-        self.name = "Lakshyajeet Singh Rathod"
-
-        self.role = "Backend Developer | AI Enthusiast"
-
-        self.education = "B.Tech Computer Science"
-
-        self.location = "India"
-
-        self.current_focus = [
-            "Backend Development",
-            "FastAPI",
-            "Django REST Framework",
-            "Artificial Intelligence",
-            "System Design",
-            "Docker"
-        ]
-
-        self.learning = [
-            "LangChain",
-            "RAG",
-            "Vector Databases",
-            "Kubernetes",
-            "Microservices"
-        ]
-
-        self.goal = "Backend / AI Internship"
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile 👋")
-```
-
+- 🎓 B.Tech Computer Science Student
+- 💻 Learning Django, FastAPI, System Design, and AI
+- 🤖 Exploring LLMs, LangChain, and RAG
+- 🌱 Currently improving my backend engineering skills
+- 🎯 Goal: Land a Backend / AI Internship
 ---
 
 # 🚀 Tech Stack
