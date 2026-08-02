@@ -134,8 +134,6 @@ I'm currently focusing on improving my backend development and AI engineering sk
 ---
 
 
-</p>
-
 ---
 ## 📅 Contribution Calendar
 
