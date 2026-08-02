@@ -119,15 +119,15 @@ I'm currently focusing on improving my backend development and AI engineering sk
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyajeet-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyajeet-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajeet-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajeet-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=lakshyajeet-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lakshyajeet-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -143,7 +143,7 @@ I'm currently focusing on improving my backend development and AI engineering sk
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajeet-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajeet-dev&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
