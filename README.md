@@ -133,17 +133,6 @@ I'm currently focusing on improving my backend development and AI engineering sk
 
 ---
 
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/lakshyajeet-dev" alt="Lakshyajeet's GitHub Contribution Chart" />
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajeet-dev&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
